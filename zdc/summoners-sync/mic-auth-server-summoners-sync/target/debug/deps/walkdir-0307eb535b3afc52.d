@@ -1,0 +1,10 @@
+C:\Users\therustifyer\code\zdc\summoners-sync\mic-auth-server-summoners-sync\target\debug\deps\libwalkdir-0307eb535b3afc52.rmeta: C:\Users\therustifyer\.cargo\registry\src\index.crates.io-6f17d22bba15001f\walkdir-2.5.0\src\lib.rs C:\Users\therustifyer\.cargo\registry\src\index.crates.io-6f17d22bba15001f\walkdir-2.5.0\src\dent.rs C:\Users\therustifyer\.cargo\registry\src\index.crates.io-6f17d22bba15001f\walkdir-2.5.0\src\error.rs C:\Users\therustifyer\.cargo\registry\src\index.crates.io-6f17d22bba15001f\walkdir-2.5.0\src\util.rs
+
+C:\Users\therustifyer\code\zdc\summoners-sync\mic-auth-server-summoners-sync\target\debug\deps\libwalkdir-0307eb535b3afc52.rlib: C:\Users\therustifyer\.cargo\registry\src\index.crates.io-6f17d22bba15001f\walkdir-2.5.0\src\lib.rs C:\Users\therustifyer\.cargo\registry\src\index.crates.io-6f17d22bba15001f\walkdir-2.5.0\src\dent.rs C:\Users\therustifyer\.cargo\registry\src\index.crates.io-6f17d22bba15001f\walkdir-2.5.0\src\error.rs C:\Users\therustifyer\.cargo\registry\src\index.crates.io-6f17d22bba15001f\walkdir-2.5.0\src\util.rs
+
+C:\Users\therustifyer\code\zdc\summoners-sync\mic-auth-server-summoners-sync\target\debug\deps\walkdir-0307eb535b3afc52.d: C:\Users\therustifyer\.cargo\registry\src\index.crates.io-6f17d22bba15001f\walkdir-2.5.0\src\lib.rs C:\Users\therustifyer\.cargo\registry\src\index.crates.io-6f17d22bba15001f\walkdir-2.5.0\src\dent.rs C:\Users\therustifyer\.cargo\registry\src\index.crates.io-6f17d22bba15001f\walkdir-2.5.0\src\error.rs C:\Users\therustifyer\.cargo\registry\src\index.crates.io-6f17d22bba15001f\walkdir-2.5.0\src\util.rs
+
+C:\Users\therustifyer\.cargo\registry\src\index.crates.io-6f17d22bba15001f\walkdir-2.5.0\src\lib.rs:
+C:\Users\therustifyer\.cargo\registry\src\index.crates.io-6f17d22bba15001f\walkdir-2.5.0\src\dent.rs:
+C:\Users\therustifyer\.cargo\registry\src\index.crates.io-6f17d22bba15001f\walkdir-2.5.0\src\error.rs:
+C:\Users\therustifyer\.cargo\registry\src\index.crates.io-6f17d22bba15001f\walkdir-2.5.0\src\util.rs:

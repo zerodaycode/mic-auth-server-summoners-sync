@@ -1,0 +1,9 @@
+C:\Users\therustifyer\code\zdc\summoners-sync\mic-auth-server-summoners-sync\target\debug\deps\libcanyon_connection-d3d978bb9781ede3.rmeta: C:\Users\therustifyer\.cargo\registry\src\index.crates.io-6f17d22bba15001f\canyon_connection-0.5.1\src/lib.rs C:\Users\therustifyer\.cargo\registry\src\index.crates.io-6f17d22bba15001f\canyon_connection-0.5.1\src\canyon_database_connector.rs C:\Users\therustifyer\.cargo\registry\src\index.crates.io-6f17d22bba15001f\canyon_connection-0.5.1\src\datasources.rs
+
+C:\Users\therustifyer\code\zdc\summoners-sync\mic-auth-server-summoners-sync\target\debug\deps\libcanyon_connection-d3d978bb9781ede3.rlib: C:\Users\therustifyer\.cargo\registry\src\index.crates.io-6f17d22bba15001f\canyon_connection-0.5.1\src/lib.rs C:\Users\therustifyer\.cargo\registry\src\index.crates.io-6f17d22bba15001f\canyon_connection-0.5.1\src\canyon_database_connector.rs C:\Users\therustifyer\.cargo\registry\src\index.crates.io-6f17d22bba15001f\canyon_connection-0.5.1\src\datasources.rs
+
+C:\Users\therustifyer\code\zdc\summoners-sync\mic-auth-server-summoners-sync\target\debug\deps\canyon_connection-d3d978bb9781ede3.d: C:\Users\therustifyer\.cargo\registry\src\index.crates.io-6f17d22bba15001f\canyon_connection-0.5.1\src/lib.rs C:\Users\therustifyer\.cargo\registry\src\index.crates.io-6f17d22bba15001f\canyon_connection-0.5.1\src\canyon_database_connector.rs C:\Users\therustifyer\.cargo\registry\src\index.crates.io-6f17d22bba15001f\canyon_connection-0.5.1\src\datasources.rs
+
+C:\Users\therustifyer\.cargo\registry\src\index.crates.io-6f17d22bba15001f\canyon_connection-0.5.1\src/lib.rs:
+C:\Users\therustifyer\.cargo\registry\src\index.crates.io-6f17d22bba15001f\canyon_connection-0.5.1\src\canyon_database_connector.rs:
+C:\Users\therustifyer\.cargo\registry\src\index.crates.io-6f17d22bba15001f\canyon_connection-0.5.1\src\datasources.rs:

@@ -1,0 +1,10 @@
+C:\Users\therustifyer\code\zdc\summoners-sync\mic-auth-server-summoners-sync\target\debug\deps\libref_cast-f75f6de51560d903.rmeta: C:\Users\therustifyer\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ref-cast-1.0.23\src/lib.rs C:\Users\therustifyer\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ref-cast-1.0.23\src\custom.rs C:\Users\therustifyer\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ref-cast-1.0.23\src\layout.rs C:\Users\therustifyer\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ref-cast-1.0.23\src\trivial.rs
+
+C:\Users\therustifyer\code\zdc\summoners-sync\mic-auth-server-summoners-sync\target\debug\deps\libref_cast-f75f6de51560d903.rlib: C:\Users\therustifyer\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ref-cast-1.0.23\src/lib.rs C:\Users\therustifyer\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ref-cast-1.0.23\src\custom.rs C:\Users\therustifyer\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ref-cast-1.0.23\src\layout.rs C:\Users\therustifyer\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ref-cast-1.0.23\src\trivial.rs
+
+C:\Users\therustifyer\code\zdc\summoners-sync\mic-auth-server-summoners-sync\target\debug\deps\ref_cast-f75f6de51560d903.d: C:\Users\therustifyer\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ref-cast-1.0.23\src/lib.rs C:\Users\therustifyer\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ref-cast-1.0.23\src\custom.rs C:\Users\therustifyer\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ref-cast-1.0.23\src\layout.rs C:\Users\therustifyer\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ref-cast-1.0.23\src\trivial.rs
+
+C:\Users\therustifyer\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ref-cast-1.0.23\src/lib.rs:
+C:\Users\therustifyer\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ref-cast-1.0.23\src\custom.rs:
+C:\Users\therustifyer\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ref-cast-1.0.23\src\layout.rs:
+C:\Users\therustifyer\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ref-cast-1.0.23\src\trivial.rs:
