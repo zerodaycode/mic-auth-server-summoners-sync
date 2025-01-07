@@ -1,5 +1,5 @@
 use serde::Serialize;
-use canyon_sql::macros::;
+use canyon_sql::macros::*;
 
 #[derive(CanyonCrud, CanyonMapper, Serialize)]
 #[canyon_entity]

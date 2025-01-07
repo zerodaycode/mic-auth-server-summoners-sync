@@ -1,4 +1,5 @@
-mod model;
+mod domain;
+mod infrastructure;
 
 #[macro_use] extern crate rocket;
 use canyon_sql::main;
