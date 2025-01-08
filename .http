@@ -1,0 +1,14 @@
+@hostname = http://localhost
+@port = 8000
+@host = {{hostname}}:{{port}}
+@contentType = application/json
+
+### Sign-Up Request
+POST {{host}}/auth/sign-up
+Content-Type: {{contentType}}
+
+{
+  "username": "example_user",
+  "password": "secure_password",
+  "email": "example_user@example.com"
+}

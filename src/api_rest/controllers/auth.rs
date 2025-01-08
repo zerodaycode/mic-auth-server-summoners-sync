@@ -1,8 +1,12 @@
 //! Module which contains all the HTTP REST endpoints related with user authentication and authorization
 
-#[get("/sign-up")]
-pub fn register() -> &'static str {
-    "Registering user!"
+use rocket::serde::json::Json;
+
+use crate::api_rest::dto::RegisterRequest;
+
+#[post("/sign-up", format = "json", data = "<new_user>")]
+pub fn register(new_user: Json<RegisterRequest>) -> String {
+    format!("Registering user! Data: {:?}", new_user)
 }
 
 #[cfg(test)]
@@ -20,7 +24,7 @@ mod tests {
     #[test]
     fn test_register_user() {
         let expected = "Registering user!";
-        let scoped_client = CLIENT; // let binding, due to lfetime issues
+        let scoped_client = CLIENT; // let binding, due to lifetime issues
         let response = scoped_client.get(String::from(auth::BASE) + &uri!(register).to_string()).dispatch();
         
         assert_eq!(response.status(), Status::Ok);
