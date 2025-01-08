@@ -1,3 +1,4 @@
+mod api_rest;
 mod domain;
 mod infrastructure;
 
@@ -12,6 +13,8 @@ fn index() -> &'static str {
 #[launch]
 #[main]
 fn rocket() -> _ {
-    rocket::build().mount("/", routes![index])
+    rocket::build()
+        .mount("/", routes![index])
+        .mount("/auth", routes![api_rest::controllers::auth::register])
 }
 
