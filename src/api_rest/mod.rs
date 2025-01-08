@@ -1,2 +1,2 @@
 pub mod controllers;
-mod dto;
+pub mod dto;

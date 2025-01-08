@@ -1,4 +1,4 @@
---! Note that this docker-compose file is intented to be used only in a local-dev enviroment!
+--! Note that sql script file is intented to be used only in a local-dev enviroment!
 
 -- Switch to the zerodaycode database
 \connect zerodaycode;

@@ -1,4 +1,5 @@
 mod api_rest;
+mod application;
 mod domain;
 mod infrastructure;
 
