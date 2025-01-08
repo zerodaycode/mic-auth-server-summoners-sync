@@ -1,0 +1,18 @@
+#! Note that this canyon configuration file is intented to be used only in a local-dev enviroment!
+#! This is not the configuration of 'pre' nor 'pro' environments, just helds the configuration data
+#! for Canyon, so devs can quickly start to work in their computers
+
+#! Actual 'pre' and 'pro' files are dynamically wired on the deployment pipelines, replacing this one
+
+[canyon_sql]
+
+[[canyon_sql.datasources]]
+name = 'postgres_docker'
+
+[canyon_sql.datasources.auth]
+postgresql = { basic = { username = 'postgres', password = 'postgres'}}
+
+[canyon_sql.datasources.properties]
+host = 'localhost'
+port = 5432
+db_name = 'zerodaycode'
